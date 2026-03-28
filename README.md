@@ -30,5 +30,5 @@ This project contains automated UI tests for the [Practice Automation Form Field
 - GeckoDriver installed and accessible in PATH
 
 ## Running Tests
-1. Navigate to the project root: ```cd uiTests```
+1. Navigate to the project root.
 2. Run all tests: ```go run run_tests.go```
